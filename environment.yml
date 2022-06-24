@@ -14,6 +14,7 @@ dependencies:
 - pip:
   - pandas
   - qiskit
+  - qiskit-nature
   - ./qiskit-textbook-src
   - qiskit-machine-learning
   - 'qiskit-machine-learning[sparse]'
